@@ -10,3 +10,15 @@
     color: blueviolet;
     font-style: italic;
 }
+
+footer{
+    display: block;
+    background-color: blueviolet;
+}
+#colorlib-footer {
+padding-bottom: 9em;
+}
+.col-container{
+    display: table;
+    width: 100%;
+}

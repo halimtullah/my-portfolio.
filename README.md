@@ -2,7 +2,7 @@ Portfolio Landing Page
 This application give details about myself, 2020.
 #### By Halima Isack
 ## Description
-{This portfolio give some description about me, what I aspire to be in future and my educational background. }
+This portfolio give some description about me, what I aspire to be in future and my educational background.
 ## Setup/Installation Requirements
 Click the link 
 ## Known Bugs

@@ -1,8 +1,8 @@
 Portfolio Landing Page
-This application give details about me, 2020.
+This application give details about myself, 2020.
 #### By Halima Isack
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This portfolio give some description about me, what I aspire to be in future and my educational background. }
 ## Setup/Installation Requirements
 Click the link 
 ## Known Bugs

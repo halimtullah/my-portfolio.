@@ -2,25 +2,31 @@
     color: red;
     font-style: italic;
 }
+.h1{
+    color: goldenrod;
+    font-style: italic;
+}
 .h3{
     color: greenyellow;
     font-style: italic;
 }
 .h4{
-    color: black;
+    color: rgb(226, 168, 43);
     font-style: italic;
 }
 
 footer{
     display: block;
-    background-color: blueviolet;
+    background-color: rosybrown;
+    font-style: italic;
+    font-size: large;
 }
-#colorlib-footer {
-padding-bottom: 9em;
-}
-.col-container{
-    display: table;
-    width: 100%;
+.test-box {
+    border-left: 2px solid red;
+    border-right: 4px mediumblue;
+    border-top: 6px yellowgreen;
+    border-bottom: 8px tomato;
+    display: block;
 }
 .sidebar {
     width: 12%;
@@ -32,6 +38,7 @@ padding-bottom: 9em;
 
 }
 
+
 @media screen and (min-width 480px) and (max-width 767px) {
     body {
         background-color: gold;
@@ -40,6 +47,6 @@ padding-bottom: 9em;
 }
 @media screen and (min-width: 768px) { 
     body { 
-        background-color: rgb(135, 50, 205);
+        background-color: gainsboro;
     }
 }

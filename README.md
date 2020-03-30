@@ -16,7 +16,8 @@ This Portfolio Landing Page has a link to some of projects done while in Moringa
 ## Support and contact details
 Any issues or have a question kindly email via memon123@gmail.com.
 
-### License [LICENSE](https://github.com/halimtullah/my-portfolio./License.md)
+### License [LICENSE](https://github.com/halimtullah/my-portfolio./blob/master/LICENSE.md)
+
 
 Copyright (c) {2020} 
 **Halima Isack**

@@ -1,17 +1,22 @@
-### Portfolio Landing Page
-This application give details about myself, 2020.
-#### By Halima Isack
+# PORTFOLIO LANDING PAGE
+#### This description give information about myself, 2020
+#### By **Halima Hussein Isack**
 ## Description
-This portfolio give some description about me, what I aspire to be in future and my educational background.
+This application give brief description about me, my eductional background, and my hobbies. It also highlight my aspirtion. 
+This Portfolio Landing Page has a link to some of projects done while in Moringa School.
+
 ## Setup/Installation Requirements
-Click the link 
+* No installation required.
+* Just Click the Link.
 ## Known Bugs
-None so far!
+* None So Far.
 ## Technologies Used
-HTML<br>
-CSS.
+* HTML.
+* CSS.
 ## Support and contact details
-Contact the author via email:memon1234@gmail.com
-### License
-Copyright (c) [2020] [Halima Hussein Isack]
-<a href"https://choosealicense.com/licenses/mit/">MIT </a>
+Any issues or have a question kindly email via memon123@gmail.com.
+
+### License [LICENSE](https://github.com/halimtullah/my-portfolio./blob/add-license-1/License.md)
+
+Copyright (c) {2020} 
+**Halima Isack**
